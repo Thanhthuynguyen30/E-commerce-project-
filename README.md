@@ -31,6 +31,18 @@
 
   - What are the busiest hours or days for transactions?
   - Are there specific time periods when high-value transactions are more likely?
+# 2. PREPARE
+
+## 2.1. Dataset
+
+- I would use 'E-commerce dataset' on Kaggle to analyze and answer the questions.
+- The dataset contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail. The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
+- The dataset is lisenced under Attribution 4.0 International (CC BY 4.0 DEED)
+
+## 2.2. Tool
+
+- Bigquery is used to analyzing the dataset because the dataset includes 541909 rows in total, BigQuery can provide a huge support to deal with a large volume of data
+
 # 3. PROCESS 
 ## 3.1. Data exploration
 - SQL queries: [Data exploration.sql](https://github.com/Thanhthuynguyen30/E-commerce-project-/blob/d26f30c4f1c4dab6dbbaff27de94f9e7c03d8adb/Data%20exploration.sql)
