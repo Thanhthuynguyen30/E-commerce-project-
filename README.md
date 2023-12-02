@@ -55,5 +55,5 @@
     > Note: Missing Customer IDs: There are missing values in the 'CustomerID' field, which is unexpected. Every transaction should ideally have a customer ID associated with it.
 ## 3.2 Data cleaning 
 - SQL queries: [Data cleaning.sql](https://github.com/Thanhthuynguyen30/E-commerce-project-/blob/84f05202c7637ba44f43413bea368ed262e5709e/Data%20cleaning.sql)
-- 
+# 4. Analyze data 
 
