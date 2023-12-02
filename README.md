@@ -33,7 +33,7 @@
   - Are there specific time periods when high-value transactions are more likely?
 # 3. PROCESS 
 ## 3.1. Data exploration
-- SQL queries: [Data exploration ](url)
+- SQL queries: [Data exploration ](Data exploration.sql)
 - The table below shows all column names and their data types. 
 ![Screenshot 2023-10-31 at 03.37.39.png](attachment:d20075bc-583e-47ea-997d-df9268d406e0.png)
   -> Note: Customer ID Type: The 'CustomerID' column is stored as float numbers, which seems weird to identify customers.
