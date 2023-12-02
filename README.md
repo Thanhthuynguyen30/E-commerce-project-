@@ -34,14 +34,14 @@
 # 3. PROCESS 
 ## 3.1. Data exploration
 - SQL queries: [Data exploration.sql](https://github.com/Thanhthuynguyen30/E-commerce-project-/blob/d26f30c4f1c4dab6dbbaff27de94f9e7c03d8adb/Data%20exploration.sql)
-- The table below shows all column names and their data types. 
-![Screenshot 2023-10-31 at 03.37.39.png](attachment:d20075bc-583e-47ea-997d-df9268d406e0.png)
-  -> Note: Customer ID Type: The 'CustomerID' column is stored as float numbers, which seems weird to identify customers.
-- Size of Dataset: The dataset contains 541,909 rows (transactions) and 8 columns (attributes).
+- Observation:
+  - The table below shows all column names and their data types. 
 
-
-
-- Number of null values in each column.
-
+    > Note: Customer ID Type: The 'CustomerID' column is stored as float numbers, which seems weird to identify customers.
+  - Size of Dataset: The dataset contains 541,909 rows (transactions) and 8 columns (attributes).
+  - Number of null values in each column.
+    > Note: Missing Customer IDs: There are missing values in the 'CustomerID' field, which is unexpected. Every transaction should ideally have a customer ID associated with it.
+## 3.2 Data cleaning 
+- SQL queries: 
 
 
