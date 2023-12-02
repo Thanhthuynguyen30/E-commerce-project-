@@ -108,7 +108,7 @@ GROUP BY
 ORDER BY
   Month;
 
-## Countries havng most customers
+## Countries having most customers
 
 SELECT Country, COUNT(CustomerID) AS NumberOfCustomers
 FROM `EcommerceProjectPractice.sales`
@@ -117,7 +117,7 @@ GROUP BY  Country
 ORDER BY  2 DESC
 LIMIT 5;
 
-## Countries having highest revenue out of the researched period
+## Countries having highest revenue during the researched period
 
 SELECT Country, Sum(UnitPrice*Quantity) AS Revenue
 FROM `EcommerceProjectPractice.sales`
