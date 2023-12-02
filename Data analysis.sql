@@ -180,3 +180,20 @@ GROUP BY
 ORDER BY
   transaction_count DESC
 LIMIT 5;
+
+## Specific time periods when high-value transactions are more likely
+
+WITH InvoiceInfo AS (
+    SELECT  
+        InvoiceNo, 
+        SUM(UnitPrice * Quantity) AS InvoiceValue, 
+        EXTRACT(HOUR FROM InvoiceDate) AS InvoiceHour 
+    FROM `EcommerceProjectPractice.sales` 
+    GROUP BY InvoiceNo, InvoiceHour
+    ORDER BY 2 DESC
+    LIMIT 100
+)
+SELECT InvoiceHour, COUNT(*) As Occurrences
+FROM InvoiceInfo 
+GROUP BY InvoiceHour
+ORDER BY 2 DESC
