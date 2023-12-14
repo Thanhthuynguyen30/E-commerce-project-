@@ -35,7 +35,7 @@
 
 ## 2.1. Dataset
 
-- I would use 'E-commerce dataset' on Kaggle to analyze and answer the questions.
+- I would use [E-commerce dataset.csv](https://www.kaggle.com/datasets/aliessamali/ecommerce/) on Kaggle to analyze and answer the questions.
 - The dataset contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail. The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
 - The dataset is lisenced under Attribution 4.0 International (CC BY 4.0 DEED)
 
