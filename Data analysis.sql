@@ -146,13 +146,15 @@ LIMIT 10;
 > Hypothesis: Different products' prices correlate with sales volume
 > Calculate the correlation coefficient between UnitPrice and Quantity for each product.
 
-SELECT
-    Description,
+WITH CR AS (
+    SELECT
+        UnitPrice, Quantity 
+    FROM
+        `EcommerceProjectPractice.sales`
+)
+SELECT 
     CORR(UnitPrice, Quantity) AS CorrelationCoefficient
-FROM
-    `EcommerceProjectPractice.sales`
-GROUP BY
-    Description;
+FROM CR;
 
 
 ## Busiest Hours
