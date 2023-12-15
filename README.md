@@ -108,4 +108,6 @@ Observations:
 
 - The busiest days being in the period from mid-November to mid-December aligns with common patterns in many industries, especially around the holiday season. The concentration of transactions from mid-November to mid-December is a characteristic trend seen during the holiday season, which includes major shopping events such as Black Friday, Cyber Monday, and the lead-up to Christmas. Consumers tend to increase their spending during this period due to holiday promotions, discounts, and gift shopping.
 - Transactions with higher values are more likely to occur during the hours of 10:00 AM to 4:00 PM
+<img width="984" alt="image" src="https://github.com/Thanhthuynguyen30/E-commerce-project-/assets/149237392/79f4f510-5d40-4bf5-86c0-59082c4b294e">
+
   
