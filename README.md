@@ -99,4 +99,9 @@ Observations:
   - Knowing this information can help in optimizing inventory, planning marketing campaigns, and tailoring product offerings to meet customer demand during peak periods. However, if I can have access to additional data, I can explore more about customer, and the effectiveness of marketing initiatives to gain deeper insights.
 
 5. Pricing Strategy
+- *Correlation Analysis*
+> Hypothesis: Different products' prices correlate with sales volume
+
+-> I will calculate the correlation coefficient between UnitPrice and Quantity for each product.
+- The
 
