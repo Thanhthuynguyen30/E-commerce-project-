@@ -100,8 +100,12 @@ Observations:
 
 5. Pricing Strategy
 - *Correlation Analysis*
-> Hypothesis: Different products' prices correlate with sales volume
+  - Hypothesis: Different products' prices correlate with sales volume
+  - The correlation coefficient is a measure of the strength and direction of a linear relationship between two variables. In this case, the value is equals to nearly -0.00599449 (close to zero), indicating a very weak correlation between UnitPrice and Quantity. The negative sign indicates a very slight negative correlation, meaning that as one variable (e.g., UnitPrice) increases, the other variable (e.g., Quantity) tends to decrease slightly.
 
--> I will calculate the correlation coefficient between UnitPrice and Quantity for each product.
-- The
+6. Time Analysis
+- The busiest time being from 11 am to 3 pm suggests that these hours are peak hours for transactions, possibly corresponding to lunchtime or periods when people are more active in making purchases.
 
+- The busiest days being in the period from mid-November to mid-December aligns with common patterns in many industries, especially around the holiday season. The concentration of transactions from mid-November to mid-December is a characteristic trend seen during the holiday season, which includes major shopping events such as Black Friday, Cyber Monday, and the lead-up to Christmas. Consumers tend to increase their spending during this period due to holiday promotions, discounts, and gift shopping.
+- Transactions with higher values are more likely to occur during the hours of 10:00 AM to 4:00 PM
+  
