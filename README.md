@@ -69,6 +69,7 @@ Observations:
 - The two products that sold with highest quantity are PAPER CRAFT,LITTLE BIRDIE and MEDIUM CERAMIC TOP STORAGE JAR (80995 and 74215 pieces sold, respectively)
 - Top 5 products with highest sales:
   <img width="1136" alt="image" src="https://github.com/Thanhthuynguyen30/E-commerce-project-/assets/149237392/2c0489b9-d2e0-4af4-b94b-ee3e911e0999">
+- The average order value is £531.78
 2. Customer Behavior
 - There are some important customer that purchased frequently such as customer 14911 or 12748. However, the most valuable customer is 14646 with only 45 days visiting the shop but £280206 worth payment.
 - Customer Retention Rate:
