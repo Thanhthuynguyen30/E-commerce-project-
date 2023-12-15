@@ -57,4 +57,4 @@
 - SQL queries: [Data cleaning.sql](https://github.com/Thanhthuynguyen30/E-commerce-project-/blob/84f05202c7637ba44f43413bea368ed262e5709e/Data%20cleaning.sql)
 # 4. Analyze data 
 - SQL queries: [Data analysis.sql](https://github.com/Thanhthuynguyen30/E-commerce-project-/blob/9af48b67e53cb6beb94eadd4199af510c019f999/Data%20analysis.sql)
-
+- Data visualisation: [Tableau](https://public.tableau.com/app/profile/thanh.thuy.nguyen/viz/E-commerceBusinessProject/Dashboard1)
