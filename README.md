@@ -69,4 +69,24 @@ Observations:
 - The total revenue value in the researched period is approximately £10563748.57, specifically 2010 revenue is £807724.55 and 2011 revenue is £9756024.024.
 - The two products that sold with highest quantity are PAPER CRAFT,LITTLE BIRDIE and MEDIUM CERAMIC TOP STORAGE JAR (80995 and 74215 pieces sold, respectively)
 - Top 5 products with highest sales:
+  <img width="1136" alt="image" src="https://github.com/Thanhthuynguyen30/E-commerce-project-/assets/149237392/2c0489b9-d2e0-4af4-b94b-ee3e911e0999">
+2. Customer Behavior
+- There are some important customer that purchased frequently such as customer 14911 or 12748. However, the most valuable customer is 14646 with only 45 days visiting the shop but £280206 worth payment.
+- Customer Retention Rate:
+  - The result shows that the retention rate is 0%. I went through all the numbers to find the problem and figured out that the "Number of Customers at the End of the Period" and the "Number of New Customers Acquired" is similar (=4337). This may indicate that the business is in a state of flux or experiencing a situation where new customer acquisition and customer churn are roughly balanced.
+  - Here are a few possible interpretations of a 0% retention rate in this scenario:
+​
+    - High Churn Rate: It suggests that as many new customers are acquired, an equal number of existing customers are churning or leaving the business. This could be a sign of a high churn rate, which is a concern because it means that the business is losing customers as quickly as it's acquiring new ones.
+​
+    - Stagnation: The business may be in a state of stagnation or equilibrium, where the number of new customers acquired is essentially replacing those who are churning. This could indicate that the business is not experiencing growth in its customer base but is also not losing customers rapidly.
+​
+    - Short-Term Fluctuation: It's possible that this situation is a short-term fluctuation and does not reflect the long-term health of the business. Businesses may go through periods of customer turnover, and this specific time frame might capture such fluctuations.
+  - To draw meaningful insights, it's essential to consider the context and analyze trends over multiple periods. A single period with a 0% retention rate may not necessarily indicate a problem, but it should prompt further investigation and analysis of customer acquisition and churn patterns to understand the underlying dynamics.*
+3. Seasonal Trends
+- It could be understood that Spring is from March to May, Summer is from June to Aug, Fall is from Sep to Nov, and Winter is the rest of the year. 
+- Revenue during each season: 
+- The analysis of revenue data reveals a consistent upward trend during the Fall-Winter season, with the peak occurring in November. This observed increase in revenue during the Fall-Winter months suggests a positive correlation with the holiday season, particularly the Christmas and New Year period. The notable surge in sales during November may be attributed to customers preparing for these holidays, possibly purchasing gifts for friends and family.
+
+- This insight implies that the company experiences heightened demand for its products, especially those suitable for gifting, as customers engage in holiday shopping. The company  can leverage this information to tailor marketing strategies, optimize inventory levels for popular products, and capitalize on the festive season to maximize sales opportunities.
+
   
