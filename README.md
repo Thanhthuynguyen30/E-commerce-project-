@@ -47,15 +47,18 @@
 ## 3.1. Data exploration
 - SQL queries: [Data exploration.sql](https://github.com/Thanhthuynguyen30/E-commerce-project-/blob/d26f30c4f1c4dab6dbbaff27de94f9e7c03d8adb/Data%20exploration.sql)
 - Observation:
-  - The table below shows all column names and their data types. 
+  - The table below shows all column names and their data types:
 <img width="387" alt="image" src="https://github.com/Thanhthuynguyen30/E-commerce-project-/assets/149237392/f1663b26-c83a-467b-8de8-5c396cfa7ce2">
 
     > Note: Customer ID Type: The 'CustomerID' column is stored as float numbers, which seems weird to identify customers.
   - Size of Dataset: The dataset contains 541,909 rows (transactions) and 8 columns (attributes).
-  - Number of null values in each column.
+  - Number of null values in each column:
 <img width="1073" alt="image" src="https://github.com/Thanhthuynguyen30/E-commerce-project-/assets/149237392/560d75d1-de1e-46fb-9b34-a8b75556a781">
 
     > Note: Missing Customer IDs: There are missing values in the 'CustomerID' field, which is unexpected. Every transaction should ideally have a customer ID associated with it.
+  - Unique values of the dataset:
+ <img width="1061" alt="image" src="https://github.com/Thanhthuynguyen30/E-commerce-project-/assets/149237392/301425f0-ce25-474d-8e42-1ae2dd9a7520">
+
 ## 3.2 Data cleaning 
 - SQL queries: [Data cleaning.sql](https://github.com/Thanhthuynguyen30/E-commerce-project-/blob/84f05202c7637ba44f43413bea368ed262e5709e/Data%20cleaning.sql)
 # 4. Analyze data 
