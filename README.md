@@ -25,8 +25,7 @@
 - Pricing Strategy:
 
   - How do different products' prices correlate with sales volume?
-  - Are there any pricing strategies that lead to increased sales?
-
+ 
 - Time Analysis:
 
   - What are the busiest hours or days for transactions?
