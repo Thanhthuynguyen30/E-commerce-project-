@@ -84,9 +84,12 @@ Observations:
   - To draw meaningful insights, it's essential to consider the context and analyze trends over multiple periods. A single period with a 0% retention rate may not necessarily indicate a problem, but it should prompt further investigation and analysis of customer acquisition and churn patterns to understand the underlying dynamics.*
 3. Seasonal Trends
 - It could be understood that Spring is from March to May, Summer is from June to Aug, Fall is from Sep to Nov, and Winter is the rest of the year. 
-- Revenue during each season: 
+- Revenue during each season and month: <img width="1210" alt="image" src="https://github.com/Thanhthuynguyen30/E-commerce-project-/assets/149237392/8f8ec3a4-b45e-4e17-8d08-f88f10b28729">
+
 - The analysis of revenue data reveals a consistent upward trend during the Fall-Winter season, with the peak occurring in November. This observed increase in revenue during the Fall-Winter months suggests a positive correlation with the holiday season, particularly the Christmas and New Year period. The notable surge in sales during November may be attributed to customers preparing for these holidays, possibly purchasing gifts for friends and family.
 
 - This insight implies that the company experiences heightened demand for its products, especially those suitable for gifting, as customers engage in holiday shopping. The company  can leverage this information to tailor marketing strategies, optimize inventory levels for popular products, and capitalize on the festive season to maximize sales opportunities.
-
+4. Geographical Analysis
+- It can be seen that United Kingdom is the primary market for the business, having the highest number of customers and revenue throughout the reserached period.
+- Top 10 popular products during the busiest season (Fall-Winter) in the United Kingdom:
   
