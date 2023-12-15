@@ -17,6 +17,17 @@ SELECT Country,
 FROM`EcommerceProjectPractice.sales`
 GROUP BY 1;
 
+## AOV 
+
+WITH OrderValue AS (
+  SELECT InvoiceNo, SUM(UnitPrice * Quantity) AS OrderValue
+  FROM `EcommerceProjectPractice.sales`
+  GROUP BY InvoiceNo
+)
+SELECT AVG(OrderValue.OrderValue) AS AOV
+FROM OrderValue;
+
+
 ## Products sold with the highest quantity 
   
 SELECT Stockcode, Description, Quantity
