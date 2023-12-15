@@ -92,4 +92,9 @@ Observations:
 4. Geographical Analysis
 - It can be seen that United Kingdom is the primary market for the business, having the highest number of customers and revenue throughout the reserached period.
 - Top 10 popular products during the busiest season (Fall-Winter) in the United Kingdom:
-  
+<img width="931" alt="image" src="https://github.com/Thanhthuynguyen30/E-commerce-project-/assets/149237392/5a8fb221-1a59-49f3-bf35-df014466e848">
+  - These products may have features or designs that align with seasonal trends or are particularly appealing to customers during the August to December period. For example, items related to Christmas (e.g., PAPER CHAIN KIT 50'S CHRISTMAS) might experience increased demand during the holiday season. Some of the products, such as PAPER CRAFT, LITTLE BIRDIE, and ASSORTED COLOUR BIRD ORNAMENT, could be popular choices as gifts. Customers may be purchasing these items for holiday gifts, contributing to higher sales. Certain products, like DOTCOM POSTAGE or METAL SIGN TAKE IT OR LEAVE IT, might be related to special events or promotions during this period, leading to increased popularity.
+  - Knowing this information can help in optimizing inventory, planning marketing campaigns, and tailoring product offerings to meet customer demand during peak periods. However, if I can have access to additional data, I can explore more about customer, and the effectiveness of marketing initiatives to gain deeper insights.
+
+5. Pricing Strategy
+
