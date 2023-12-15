@@ -45,19 +45,28 @@
 
 # 3. PROCESS 
 ## 3.1. Data exploration
-- SQL queries: [Data exploration.sql](https://github.com/Thanhthuynguyen30/E-commerce-project-/blob/d26f30c4f1c4dab6dbbaff27de94f9e7c03d8adb/Data%20exploration.sql)
-- Observation:
-  - The table below shows all column names and their data types:
-<img width="387" alt="image" src="https://github.com/Thanhthuynguyen30/E-commerce-project-/assets/149237392/f1663b26-c83a-467b-8de8-5c396cfa7ce2">
-  - Size of Dataset: The dataset contains 541,909 rows (transactions) and 8 columns (attributes).
-  - Number of null values in each column:
-<img width="1073" alt="image" src="https://github.com/Thanhthuynguyen30/E-commerce-project-/assets/149237392/560d75d1-de1e-46fb-9b34-a8b75556a781">
-  - Unique values of the dataset:
- <img width="1061" alt="image" src="https://github.com/Thanhthuynguyen30/E-commerce-project-/assets/149237392/301425f0-ce25-474d-8e42-1ae2dd9a7520">
+SQL queries: [Data exploration.sql](https://github.com/Thanhthuynguyen30/E-commerce-project-/blob/d26f30c4f1c4dab6dbbaff27de94f9e7c03d8adb/Data%20exploration.sql)
 
+Observation:
+  - The table below shows all column names and their data types:
+    
+ <img width="387" alt="image" src="https://github.com/Thanhthuynguyen30/E-commerce-project-/assets/149237392/f1663b26-c83a-467b-8de8-5c396cfa7ce2">
+ 
+  - Size of Dataset: The dataset contains 541,909 rows (transactions) and 8 columns (attributes).
+  - Number of null values in each column:<img width="1073" alt="image" src="https://github.com/Thanhthuynguyen30/E-commerce-project-/assets/149237392/560d75d1-de1e-46fb-9b34-a8b75556a781">
+  - Unique values of the dataset:<img width="1061" alt="image" src="https://github.com/Thanhthuynguyen30/E-commerce-project-/assets/149237392/301425f0-ce25-474d-8e42-1ae2dd9a7520">
+ 
 ## 3.2 Data cleaning 
-- SQL queries: [Data cleaning.sql](https://github.com/Thanhthuynguyen30/E-commerce-project-/blob/84f05202c7637ba44f43413bea368ed262e5709e/Data%20cleaning.sql)
+SQL queries: [Data cleaning.sql](https://github.com/Thanhthuynguyen30/E-commerce-project-/blob/84f05202c7637ba44f43413bea368ed262e5709e/Data%20cleaning.sql)
+
 # 4. Analyze data 
-- SQL queries: [Data analysis.sql](https://github.com/Thanhthuynguyen30/E-commerce-project-/blob/9af48b67e53cb6beb94eadd4199af510c019f999/Data%20analysis.sql)
-- Data visualisation: [Tableau](https://public.tableau.com/app/profile/thanh.thuy.nguyen/viz/E-commerceBusinessProject/Dashboard1)
-- 
+SQL queries: [Data analysis.sql](https://github.com/Thanhthuynguyen30/E-commerce-project-/blob/9af48b67e53cb6beb94eadd4199af510c019f999/Data%20analysis.sql)
+
+Data visualisation: [Tableau](https://public.tableau.com/app/profile/thanh.thuy.nguyen/viz/E-commerceBusinessProject/Dashboard1)
+
+Observations:
+1. Revenue 
+- The total revenue value in the researched period is approximately £10563748.57, specifically 2010 revenue is £807724.55 and 2011 revenue is £9756024.024.
+- The two products that sold with highest quantity are PAPER CRAFT,LITTLE BIRDIE and MEDIUM CERAMIC TOP STORAGE JAR (80995 and 74215 pieces sold, respectively)
+- Top 5 products with highest sales:
+  
