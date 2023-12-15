@@ -48,6 +48,7 @@
 - SQL queries: [Data exploration.sql](https://github.com/Thanhthuynguyen30/E-commerce-project-/blob/d26f30c4f1c4dab6dbbaff27de94f9e7c03d8adb/Data%20exploration.sql)
 - Observation:
   - The table below shows all column names and their data types. 
+<img width="387" alt="image" src="https://github.com/Thanhthuynguyen30/E-commerce-project-/assets/149237392/f1663b26-c83a-467b-8de8-5c396cfa7ce2">
 
     > Note: Customer ID Type: The 'CustomerID' column is stored as float numbers, which seems weird to identify customers.
   - Size of Dataset: The dataset contains 541,909 rows (transactions) and 8 columns (attributes).
